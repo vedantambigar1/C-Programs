@@ -50,27 +50,50 @@ This repository contains all the C programming concepts, practicals, and mini-pr
 ## 📂 Repository Structure
 
 ```text
-📦 C Programming Repository
+C-Programming/
+│
 ├── PEREMETER OF RECTANGLE
 ├── combine calculator
 ├── conversion
 ├── cube of n
 ├── hello world
+│
 ├── practical-1.1 simple interest
 ├── practical-1.2 greatest of three number
 ├── practical-1.3 leap year check
+│
+├── practical-2.1 roots of a quadratic equation
 ├── practical-2.2 menu driven calculator using switch
 ├── practical-2.3 pattern of asterisks
-├── practical-3.1 reverse digits of a number
-├── practical-3.2 factorial of a number
-├── practical-3.3 fibonacci series
-├── practical-4.1 area of square using function
+│
+├── practical-3.1 reverse the digits of a number
+├── practical-3.2 calculate factorial of a number
+├── practical-3.3 print fibonacci series
+│
+├── practical-4.1 print area of square using function
 ├── practical-4.2 recursive function
 ├── practical-4.3 library functions
-├── practical-5.1 student record program
-├── practical-5.2 array sorting
-├── practical-6.1 string operations
-└── practical-10 student management system
+├── practical-4.4 program using goto statement
+│
+├── practical-5.1 print roll no. and name of 10 students
+├── practical-5.2 sort array elements in ascending order
+│
+├── practical-6.1 extract portion of a string and print
+├── practical-6.2 check a string is palindrome
+├── practical-6.3 using strlen() and strcmp() functions
+│
+├── practical-7.1 swap using call-by-value
+├── practical-7.2 swap using call-by-reference
+│
+├── practical-8.1 read a matrix of size m × n
+├── practical-8.2 matrix multiplication using function
+│
+├── practical-9 structure to store 2 book information
+│
+├── practical-10 project student management system
+│
+├── .gitignore
+└── README.md
 ```
 
 ---
